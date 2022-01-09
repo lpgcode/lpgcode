@@ -1,0 +1,5 @@
+- 👋 Hello friend, my name is Landon Grammer
+- 👀 I’m interested in Web3 development!
+- 🌱 I’m currently learning Solidity & Smart Contracts w/ the hardhat framework.
+- 💞️ I am also looking to collaborate or work on MERN stack projects, anything Web3 related, and really any front-end web development projects.
+- 📫 Contact me @ landongrammer@protonmail.com
