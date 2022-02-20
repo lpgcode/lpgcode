@@ -1,4 +1,4 @@
-- Hello! My name is Landon Grammer, I'm a fullstack JavaScript developer
+- Hello! My name is Landon Grammer, I'm a fullstack JavaScript dev
 - I’m interested in Web3 development & e-commerce
 - I’m currently learning the new Hydrogen framework from Shopify, Web3 & Solidity. You can probably find lots of test repo's here for anything SSR and Ethereum.
 
