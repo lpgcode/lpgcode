@@ -6,13 +6,9 @@ I'm always up for helping with a JavaScript project. Actively seeking employment
  
 Here in this github profile you can find various snippets of work. Live examples if available are linked in the README. I try to keep things in here simple for reuse as a personal repo, but will provide links to other outside repos I'm working on as they come up. Soon, I'll also be taking the best projects and throwing them all into a portfolio website for easy viewing which will be linked here.
  
- In the meantime if you have any questions about my work or want to talk about a project,
+ In the meantime if you have any questions about my work or want to talk about a project feel free to reach out by email:
  
- Contact me @ landongrammer@protonmail.com
- 
- Cheers!
- 
- 
+ landongrammer@protonmail.com
  
 
 
