@@ -6,6 +6,4 @@
  
  landongrammer@protonmail.com
  
-Or check out my online portfolio & blog for a link to my discord and other contact information
-
-https://land.on.fleek.co/
+land.on.fleek.co portfolio is currently in progress, ready monday.
