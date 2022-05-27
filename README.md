@@ -6,4 +6,4 @@
  
  landongrammer@protonmail.com
  
-land.on.fleek.co portfolio is currently in progress, ready monday.
+land.on.fleek.co portfolio is currently in progress, ready soon.
