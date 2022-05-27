@@ -1,6 +1,6 @@
 - Hello! My name is Landon Grammer, I'm a fullstack/JAMstack JavaScript programmer and web developer.
 - I’m interested in Web3 development & e-commerce.
-- I’m currently learning Web3 & Solidity. You can probably find lots of test repo's here for SSR websites and Ethereum smart contracts!
+- I’m currently learning Web3 & Solidity. You can probably find lots of test repo's here for SSR websites, dApps, and Ethereum smart contracts!
 
 I'm always up for helping with a JavaScript project. Actively seeking employment and taking contracts for web development. If you need help with a website or anything JavaScript please feel free to reach out.
  
