@@ -6,7 +6,7 @@ You can learn more about me in my blog/resume/portfolio I'm building @ https://l
 
 It's currently under construction, so you might not see much yet. Check back soon if things look a little wonky.
 
-I'm also building JAM stack starters on Fleek, and will be creating instructional blogs going forward. The world needs more documentation on JAM stack in Web3, it must be done. 
+I'm also building JAM stack starters on Fleek, and will be creating instructional blogs going forward. The world needs more documentation on JAM stack in Web3 - it must be done. 
 
 Please feel free to clone and reuse any "starters" you see. They will typically be labled as starters or have an active deploy in the README file. 
 
