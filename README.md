@@ -8,4 +8,4 @@ Please feel free to clone and reuse any "starters" you see. They will typically 
 
 I'm currently looking for my first job in web development. As a mostly self taught developer, it's been a bit of a rough search. If you're interested in hiring me, please contact me anytime at the linked email, or add me on discord:
 
-https://discord.gg/user/LGram#5947
+LGram#5947
